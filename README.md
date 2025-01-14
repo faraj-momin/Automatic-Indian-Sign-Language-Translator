@@ -54,5 +54,5 @@ This project is a desktop application designed to assist individuals with hearin
 
 
 **Results**
-
+```bash
 ![Recording Start/End Interface](results/Start End Interface.png)
