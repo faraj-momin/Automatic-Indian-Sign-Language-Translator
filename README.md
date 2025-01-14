@@ -26,28 +26,28 @@ This project is a desktop application designed to assist individuals with hearin
    git clone https://github.com/faraj-momin/Automatic-Indian-Sign-Language-Translator.git
    cd Automatic-Indian-Sign-Language-Translator
 
-Install Dependencies:
+2. **Install Dependencies**
+   ```bash
+   pip install -r requirements.txt
 
-pip install -r requirements.txt
+3. **Run the Application:**
+   ```bash
+   python main3.py
 
-Run the Application:
+**Usage**
 
-python main3.py
+--**Start Recording:** Click the "Start Recording" button to begin recording your speech.
 
-Usage
+--**Stop Recording:** Click the "Stop Recording" button to stop recording and process the audio.
 
-Start Recording: Click the "Start Recording" button to begin recording your speech.
+--**View Results:** The application will either display a corresponding ISL GIF for recognized phrases or show the letters for unrecognized words.
 
-Stop Recording: Click the "Stop Recording" button to stop recording and process the audio.
+--**Exit:** Click the "Exit" button to close the application.
 
-View Results: The application will either display a corresponding ISL GIF for recognized phrases or show the letters for unrecognized words.
+**File Structure**
 
-Exit: Click the "Exit" button to close the application.
+--**main3.py:** The main application script.
 
-File Structure
+--**ISL_Gifs/:** Directory containing GIFs for ISL phrases.
 
-main3.py: The main application script.
-
-ISL_Gifs/: Directory containing GIFs for ISL phrases.
-
-letters/: Directory containing images of letters for non-ISL words.
+--**letters/:** Directory containing images of letters for non-ISL words.
