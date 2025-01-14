@@ -51,3 +51,8 @@ This project is a desktop application designed to assist individuals with hearin
 - **ISL_Gifs/:** Directory containing GIFs for ISL phrases.
 
 - **letters/:** Directory containing images of letters for non-ISL words.
+
+
+**Results**
+
+![Recording Start/End Interface](results/Start End Interface.png)
