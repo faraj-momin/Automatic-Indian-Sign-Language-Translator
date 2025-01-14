@@ -36,18 +36,18 @@ This project is a desktop application designed to assist individuals with hearin
 
 **Usage**
 
---**Start Recording:** Click the "Start Recording" button to begin recording your speech.
+- **Start Recording:** Click the "Start Recording" button to begin recording your speech.
 
---**Stop Recording:** Click the "Stop Recording" button to stop recording and process the audio.
+- **Stop Recording:** Click the "Stop Recording" button to stop recording and process the audio.
 
---**View Results:** The application will either display a corresponding ISL GIF for recognized phrases or show the letters for unrecognized words.
+- **View Results:** The application will either display a corresponding ISL GIF for recognized phrases or show the letters for unrecognized words.
 
---**Exit:** Click the "Exit" button to close the application.
+- **Exit:** Click the "Exit" button to close the application.
 
 **File Structure**
 
---**main3.py:** The main application script.
+- **main3.py:** The main application script.
 
---**ISL_Gifs/:** Directory containing GIFs for ISL phrases.
+- **ISL_Gifs/:** Directory containing GIFs for ISL phrases.
 
---**letters/:** Directory containing images of letters for non-ISL words.
+- **letters/:** Directory containing images of letters for non-ISL words.
