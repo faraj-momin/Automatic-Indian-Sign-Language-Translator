@@ -152,7 +152,7 @@ def display_letters(recognized_text, alphabet):
 
 # GUI Setup
 root = tk.Tk()
-root.title("Hearing Impairment Assistant")
+root.title("Indian Sign Language Translator")
 root.geometry("300x200")
 
 # Buttons
