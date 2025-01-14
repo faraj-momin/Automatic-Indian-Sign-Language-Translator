@@ -1,0 +1,7 @@
+speechrecognition
+sounddevice
+numpy
+matplotlib
+tkinter
+Pillow
+scipy
